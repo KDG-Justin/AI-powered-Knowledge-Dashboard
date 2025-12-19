@@ -1,0 +1,38 @@
+{
+  "name": "ai-powered-knowledge-dashboard",
+  "version": "1.0.0",
+  "description": "A full-stack web application that allows users to upload documents and interact with their content through an AI-powered chat interface.  \r The system uses Retrieval-Augmented Generation (RAG) to generate accurate, context-aware answers grounded in the user’s own data.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KDG-Justin/AI-powered-Knowledge-Dashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KDG-Justin/AI-powered-Knowledge-Dashboard/issues"
+  },
+  "homepage": "https://github.com/KDG-Justin/AI-powered-Knowledge-Dashboard#readme",
+  "devDependencies": {
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.2",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.0"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/icons-material": "^7.3.6",
+    "@mui/material": "^7.3.6",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}

@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Vite cache
+.vite/
+dist/
+
+# TypeScript
+*.tsbuildinfo
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Optional: JetBrains IDEs
+.idea/
+
+# Optional: coverage reports
+coverage/
